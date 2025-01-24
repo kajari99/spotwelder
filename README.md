@@ -17,3 +17,4 @@ Components:
 - Optional Footswitch / 18650 Battery Spot Welder
 
 
+*Peter versions do not include temperature measurement and fan control.
