@@ -3,6 +3,7 @@ Spot welding project of the Erdőkertesi Mikrokontroller Klub(Hungary).  www.211
 Spot welding machine built from a microwave oven transformer.
 
 This project is based on Arduino nano
+
 Components:
 - Arduino nano
 - 4X4 or 5X4 membrane matrix keyboard
